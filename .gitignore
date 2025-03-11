@@ -8,3 +8,4 @@ resources/
 
 *.~undo-tree~
 /.env
+.aider*
