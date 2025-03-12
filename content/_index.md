@@ -14,7 +14,10 @@ toc: false
 ![Photo from Nippers end of season BBQ](/bbq/PXL_20240721_103215432.jpg 'Photo from Nippers end of season BBQ, 2024')
 
 {{< cards >}}
-  {{< card link="/" title="Local Image" image="bbq/PXL_20240721_103215432.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_102006035.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+    {{< card title="Local Image" image="lifeguard/PXL_20230618_101312688.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_101749470.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_101351968.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ## Our Mission
