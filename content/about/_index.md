@@ -1,11 +1,15 @@
-+++
-title = "About Us"
-description = "Learn about Newquay Surf Life Saving Club's history, mission, and values"
-date = 2025-03-11T12:00:00Z
-draft = false
-+++
+---
+title: About Newquay Surf Life Saving Club
+description: Learn about Newquay Surf Life Saving Club's history, mission, and values
+date: 2025-03-11T12:00:00Z
+draft: false
+---
 
-# About Newquay Surf Life Saving Club
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
+
+# 
 
 ![Club members](https://placehold.co/800x400?text=Club+Members)
 
