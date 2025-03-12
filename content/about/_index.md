@@ -15,7 +15,7 @@ draft: false
 
 ## Our History
 
-Established in 1975, Newquay Surf Life Saving Club has been a cornerstone of beach safety in Cornwall for nearly 50 years. What began as a small group of dedicated volunteers has grown into one of the UK's premier surf lifesaving clubs.
+Established in 1958, Newquay Surf Life Saving Club has been a cornerstone of beach safety in Cornwall for nearly 70 years. What began as a small group of dedicated volunteers has grown into one of the UK's premier surf lifesaving clubs.
 
 ## Our Mission
 

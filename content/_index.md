@@ -22,7 +22,9 @@ toc: false
 
 ## Our Mission
 
-To promote water safety, provide lifesaving education, and develop competitive surf lifesaving athletes in the Newquay area.
+To promote water safety, develop beach life saving techniques and to encourage active participation in SLS competitions and SLSGB awards.
+
+To provide facilities for exercise to all members regardless of their ability and to provide equality of opportunity within all aspects of club life.
 
 ## Latest News
 

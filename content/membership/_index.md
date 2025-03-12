@@ -1,13 +1,15 @@
-+++
-title = "Membership"
-description = "Join Newquay Surf Life Saving Club - membership options, benefits, and application process"
-date = 2025-03-11T12:00:00Z
-draft = false
-+++
+---
+title: Membership
+description: Join Newquay Surf Life Saving Club - membership options, benefits, and application process
+date: 2025-03-11T12:00:00Z
+draft: false
+---
 
-# Membership Information
+![Nippers training in the pool in 2025](PXL_20250202_144320913__grace_jump_cropped.jpg)
 
-![Members training](https://placehold.co/800x400?text=Members+Training)
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
 
 ## Membership Categories
 

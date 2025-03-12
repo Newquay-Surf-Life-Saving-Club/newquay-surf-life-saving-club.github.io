@@ -23,9 +23,6 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
       weight: 2
@@ -45,16 +42,16 @@ menu:
       weight: 7
       params:
         type: search
-    - name: GitHub
-      weight: 8
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
     - name: Twitter
-      weight: 9
-      url: "https://twitter.com/"
+      weight: 8
+      url: "https://x.com/newquayslsc"
       params:
         icon: x-twitter
+    - name: Facebook
+      weight: 9
+      url: "https://www.facebook.com/newquaysurflifesavingclub"
+      params:
+        icon: facebook
 
 params:
   navbar:

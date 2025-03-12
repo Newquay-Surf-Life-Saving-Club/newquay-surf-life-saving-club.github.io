@@ -5,9 +5,11 @@ date = 2025-03-11T12:00:00Z
 draft = false
 +++
 
-# Training Programs
+![Training session](PXL_20250119_142904546__waterworld_board_rescue_cropped.jpg)
 
-![Training session](https://placehold.co/800x400?text=Training+Session)
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
 
 ## Training Schedule
 

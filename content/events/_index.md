@@ -1,13 +1,24 @@
-+++
-title = "Events"
-description = "Upcoming competitions, social events, and activities at Newquay Surf Life Saving Club"
-date = 2025-03-11T12:00:00Z
-draft = false
-+++
+---
+title: Events
+description: Upcoming competitions, social events, and activities at Newquay Surf Life Saving Club
+date: 2025-03-11T12:00:00Z
+draft: false
+cascade:
+  type: docs
+---
 
-# Events Calendar
+{{< cards >}}
+    {{< card link="https://newquayslsc.clubmembership.cloud/" title="Click to see latest events" image="logos/clubmembership-logo.png" subtitle="Events are run through Club Membership Cloud." method="Resize" options="600x q80 webp" >}}
+    {{< card link="lifeguard-visitor-centre" image="lifeguard/binoculars_cropped.jpg" title="A view from the visitor centre" subtitle="As a club we frequently visit the UK's only lifeguard visitor centre on Fistral" method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}
 
-![Competition event](https://placehold.co/800x400?text=Competition+Event)
+![Competitors ready at the start line in 2024](PXL_20240914_143928731__start_line.jpg)
+
+---
+
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
 
 ## Upcoming Events
 
