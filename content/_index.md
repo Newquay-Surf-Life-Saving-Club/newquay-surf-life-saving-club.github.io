@@ -6,18 +6,16 @@ draft: false
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
-
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="membership" title="Join us" icon="user-group" >}}
+  {{< card link="about" title="About the club" icon="book-open" >}}
 {{< /cards >}}
 
-# Welcome to Newquay Surf Life Saving Club
+![Photo from Nippers end of season BBQ](/bbq/PXL_20240721_103215432.jpg 'Photo from Nippers end of season BBQ, 2024')
 
-![Beach scene](https://placehold.co/800x400?text=Newquay+Beach)
+{{< cards >}}
+  {{< card link="/" title="Local Image" image="bbq/PXL_20240721_103215432.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}
 
 ## Our Mission
 
