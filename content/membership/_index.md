@@ -11,60 +11,53 @@ draft: false
   This page contains example content and should not be taken literally
 {{< /callout >}}
 
+## About Our Club
+
+Newquay Surf Life Saving Club is based at Fistral Beach in Newquay. We offer training and activities for various age groups, focusing on water safety, lifesaving skills, and community engagement.
+
 ## Membership Categories
 
-We offer several membership options to suit different ages and involvement levels:
+We have several sections to accommodate different age groups:
 
-### Junior Membership (8-13 years)
-- Weekly training sessions
-- Basic water safety and lifesaving skills
-- Fun beach activities and games
-- **Annual fee: £85**
+### Sandhoppers (age 5+)
+- No trial required
+- Training takes place on Sundays
+- Spaces available based on capacity
 
-### Youth Membership (14-18 years)
-- Advanced lifesaving training
-- Competition opportunities
-- Pathway to qualifications
-- **Annual fee: £95**
+### Nippers (age 7-12)
+- Must be able to swim a minimum of 50m
+- Training takes place on Sundays
+- Trials held in October
+- Must pass swimming assessment
 
-### Senior Membership (18+ years)
-- Full access to all club facilities
-- Advanced training sessions
-- Competition entry support
-- Volunteer opportunities
-- **Annual fee: £120**
+### Youth (age 12-18)
+- Must be competent swimmers
+- Training takes place on Monday evenings
+- Assessment required
 
-### Family Membership
-- Covers 2 adults and up to 3 children
-- **Annual fee: £250**
-
-### Social Membership
-- Access to social events
-- Support the club without active participation
-- **Annual fee: £40**
-
-## Membership Benefits
-
-- Professional coaching and training
-- Insurance coverage during club activities
-- Access to club equipment and facilities
-- Discounted entry to competitions
-- Social events throughout the year
-- Opportunity to gain nationally recognized qualifications
+### Seniors (age 18+)
+- Training takes place on Tuesdays
+- For experienced swimmers and lifesavers
 
 ## How to Join
 
-1. Complete the membership application form (available at the clubhouse or downloadable below)
-2. Return the form with payment to the membership secretary
-3. Attend an induction session for new members
+### For Nippers and Youth
+If you're interested in joining our Nippers or Youth sections:
+1. Provide your details using the contact form below
+2. You'll be added to our waiting list
+3. Our waiting list manager will contact you about trial dates (held in October)
+4. Attend the trial session
 
-[Download Membership Form](#) (Coming soon)
+### For Sandhoppers
+1. Submit your interest using the contact form
+2. No trial is required
+3. We'll contact you when spaces become available
 
-## Membership Policies
+### For Seniors
+Please contact seniors@nslsc.co.uk directly for information about joining our senior section.
 
-- All members must adhere to the club's code of conduct
-- Junior members must be signed in and out by a parent/guardian
-- Members are expected to volunteer at club events when possible
-- Membership fees are non-refundable
+## Contact Information
 
-For any membership queries, please contact our Membership Secretary at membership@nslsc.org.uk
+For general membership inquiries: enquiries@nslsc.co.uk
+
+For senior membership inquiries: seniors@nslsc.co.uk
