@@ -6,7 +6,7 @@ draft: false
 prev: /
 next: new-equipment-2025
 cascade:
-  type: docs
+  type: blog
 ---
 
 Check back regularly for the latest news and updates from Newquay Surf Life Saving Club.
