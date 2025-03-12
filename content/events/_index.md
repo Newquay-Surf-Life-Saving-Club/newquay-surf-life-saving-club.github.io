@@ -65,15 +65,25 @@ County championships. Club will arrange transport for competitors.
 
 ## Competition Calendar
 
-| Date | Event | Location | Age Groups |
-|------|-------|----------|------------|
-| April 8 | Season Opener | Fistral Beach | All |
-| May 24-25 | Cornwall Championships | Perranporth | All |
-| June 14 | Western Regional Champs | Exmouth | Youth/Senior |
-| July 5-6 | Junior Nationals | Bournemouth | Juniors |
-| July 19-20 | National Championships | Bournemouth | Youth/Senior |
-| August 9 | Club Championships | Fistral Beach | All |
-| September 3 | Season Closer | Fistral Beach | All |
+Our club participates in a variety of competitions throughout the year, catering to all age groups and abilities:
+
+### Nipper Competitions (Under 14s)
+- Max Hocking Fun Day
+- Cornish Nipper Surf Championships
+- National Nipper Surf Championships
+- Cornish & National Nipper Frostbite (Stillwater)
+
+### Youth Competitions (14-18 years)
+- Cornish Youth Surf Championships
+- National Youth Surf Championships
+- Cornish & National Youth Frostbite (Stillwater) – Winter
+
+### Senior & Masters Competitions
+- Cornish Senior Surf Championships
+- National Senior Surf Championships
+- National Masters Surf Championships
+
+*Dates and locations for this season's competitions will be announced soon. Please check our Club Membership Cloud portal for the most up-to-date information.*
 
 ## Social Events
 
