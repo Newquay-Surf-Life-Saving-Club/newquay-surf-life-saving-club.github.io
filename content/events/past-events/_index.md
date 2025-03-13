@@ -1,5 +1,6 @@
 ---
 title: Past Events
+weight: 1
 prev: /events
 next: 2024-open-championships
 ---

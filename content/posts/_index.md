@@ -9,4 +9,8 @@ cascade:
   type: blog
 ---
 
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
+
 Check back regularly for the latest news and updates from Newquay Surf Life Saving Club.

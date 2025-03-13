@@ -8,6 +8,10 @@ tags: ["equipment", "training", "rescue"]
 
 ![New rescue boards](https://placehold.co/800x400?text=New+Equipment)
 
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
+
 We're thrilled to announce the arrival of our new rescue equipment! Thanks to a generous grant from the Cornwall Community Foundation and fundraising efforts by our members, we've been able to purchase:
 
 - 6 new rescue boards

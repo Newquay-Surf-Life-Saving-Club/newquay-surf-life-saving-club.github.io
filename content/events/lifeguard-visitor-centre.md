@@ -1,5 +1,6 @@
 ---
 title: Fistral Lifeguard Visitor Centre
+weight: 100
 prev: /events
 ---
 

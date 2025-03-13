@@ -23,17 +23,7 @@ To provide facilities for exercise to all members regardless of their ability an
 
 ## Latest News
 
-
-
-### Summer Training Schedule Released
-*March 10, 2025*
-
-Our summer training schedule is now available! Sessions will begin on April 15th and run through September. All members are encouraged to participate.
-
-### New Equipment Arrives
-*March 5, 2025*
-
-We're excited to announce the arrival of our new rescue boards and tubes. These will be available for training starting next week.
+Please see our [Facebook](https://www.facebook.com/newquaysurflifesavingclub) page for latest news.
 
 ## Join Us
 

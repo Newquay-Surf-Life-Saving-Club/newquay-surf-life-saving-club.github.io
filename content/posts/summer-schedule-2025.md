@@ -8,6 +8,10 @@ tags: ["training", "schedule", "summer"]
 
 ![Summer training](https://placehold.co/800x400?text=Summer+Training)
 
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
+
 We're excited to announce that our summer training schedule for 2025 is now available. Sessions will begin on April 15th and run through September.
 
 ## Schedule Highlights

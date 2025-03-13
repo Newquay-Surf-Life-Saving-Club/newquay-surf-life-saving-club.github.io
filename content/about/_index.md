@@ -5,13 +5,11 @@ date: 2025-03-11T12:00:00Z
 draft: false
 ---
 
+![2024 awards at Fistral Beach Bar](PXL_20240721_112113350__beach_bar_awards_cropped.jpg)
+
 {{< callout type="warning" >}}
   This page contains example content and should not be taken literally
 {{< /callout >}}
-
-# 
-
-![Club members](https://placehold.co/800x400?text=Club+Members)
 
 ## Our History
 
@@ -19,11 +17,9 @@ Established in 1958, Newquay Surf Life Saving Club has been a cornerstone of bea
 
 ## Our Mission
 
-Our mission is threefold:
+To promote water safety, develop beach life saving techniques and to encourage active participation in SLS competitions and SLSGB awards.
 
-1. **Safety** - To promote water safety and reduce drownings through education and training
-2. **Sport** - To develop competitive athletes in surf lifesaving disciplines
-3. **Community** - To foster a sense of community and environmental stewardship
+To provide facilities for exercise to all members regardless of their ability and to provide equality of opportunity within all aspects of club life.
 
 ## Our Committee
 
