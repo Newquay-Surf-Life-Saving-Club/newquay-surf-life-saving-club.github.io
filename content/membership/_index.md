@@ -13,7 +13,7 @@ cascade:
 
 Newquay Surf Life Saving Club is based at Fistral Beach in Newquay. We offer training and activities for various age groups, focusing on water safety, lifesaving skills, and community engagement.
 
-During the summer training is on a Sunday morning at Fistral or another Newquay beach. In the winter training is pooled based and we have to fall in line with pool availability.
+During the summer training is on a Sunday morning at Fistral or another Newquay beach. In the winter training is pool based and we have to fall in line with pool availability.
 
 Fees are set at an AGM each year.
 
