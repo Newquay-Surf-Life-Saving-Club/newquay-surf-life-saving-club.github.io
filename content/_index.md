@@ -9,6 +9,8 @@ toc: false
 {{< cards >}}
   {{< card link="membership" title="Join us" icon="user-group" >}}
   {{< card link="about" title="About the club" icon="book-open" >}}
+  {{< card link="events" title="Upcoming and past events" icon="calendar" >}}
+  {{< card link="howto" title="How to use this website" icon="question-mark-circle" >}}
 {{< /cards >}}
 
 ![Photo from Nippers end of season BBQ](/bbq/PXL_20240721_103215432.jpg 'Photo from Nippers end of season BBQ, 2024')
