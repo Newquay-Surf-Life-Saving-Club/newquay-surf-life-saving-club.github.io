@@ -13,14 +13,7 @@ toc: false
   {{< card link="howto" title="How to use this website" icon="question-mark-circle" >}}
 {{< /cards >}}
 
-![Photo from Nippers end of season BBQ](/bbq/PXL_20240721_103215432.jpg 'Photo from Nippers end of season BBQ, 2024')
-
-{{< cards >}}
-    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_102006035.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
-    {{< card title="Local Image" image="lifeguard/PXL_20230618_101312688.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
-    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_101749470.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
-    {{< card link="/" title="Local Image" image="lifeguard/PXL_20230618_101351968.jpg" subtitle="Image under assets directory, processed by Hugo." method="Resize" options="600x q80 webp" >}}
-{{< /cards >}}
+![View across Fistral from the club house](PXL_20240914_133223101__view_from_club_house_cropped.jpg)
 
 ## Our Mission
 
@@ -29,6 +22,8 @@ To promote water safety, develop beach life saving techniques and to encourage a
 To provide facilities for exercise to all members regardless of their ability and to provide equality of opportunity within all aspects of club life.
 
 ## Latest News
+
+
 
 ### Summer Training Schedule Released
 *March 10, 2025*
