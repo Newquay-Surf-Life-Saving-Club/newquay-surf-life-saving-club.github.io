@@ -1,13 +1,23 @@
-+++
-title = "Contact Us"
-description = "Get in touch with Newquay Surf Life Saving Club - contact details and location information"
-date = 2025-03-11T12:00:00Z
-draft = false
-+++
+---
+title: Contact Us
+description: Get in touch with Newquay Surf Life Saving Club - contact details and location information
+date: 2025-03-11T12:00:00Z
+draft: false
+cascade:
+  type: docs
+---
 
-# Contact Information
+![Clubhouse](PXL_20240512_081308691__fistral_still_cropped.jpg)
 
-![Clubhouse](https://placehold.co/800x400?text=Clubhouse)
+{{< callout type="warning" >}}
+  This page contains example content and should not be taken literally
+{{< /callout >}}
+
+## Feedback
+
+We value your feedback. If you have any suggestions, comments, or concerns, please email feedback@nslsc.org.uk or use the form below:
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=nH2y_waR20KHQGlZePwZ1u2Y6FocNtlHlkwrVG5qEJRURTdUS0pYSVJPWDlDOUtBWDgzVFFKOEtEVS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ## General Enquiries
 
@@ -40,29 +50,12 @@ TR7 1HY
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2551.1544111409747!2d-5.1031937!3d50.4178061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486b25563a3b2b8d%3A0x6e6936f8c8cd7f85!2sFistral%20Beach!5e0!3m2!1sen!2suk!4v1615554407015!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-## Opening Hours
-
-**Clubhouse Opening Hours (Summer Season):**
-- Monday to Friday: 17:00 - 21:00
-- Saturday and Sunday: 09:00 - 18:00
-
-**Clubhouse Opening Hours (Winter Season):**
-- Tuesday and Thursday: 18:00 - 21:00
-- Sunday: 09:00 - 13:00
-
 ## Social Media
 
 Follow us on social media to stay updated with club news and events:
 
-- [Facebook](#)
-- [Instagram](#)
-- [Twitter](#)
-
-## Feedback
-
-We value your feedback. If you have any suggestions, comments, or concerns, please email feedback@nslsc.org.uk or use the form below:
-
-[Contact form will be added here]
+- [Facebook](https://www.facebook.com/newquaysurflifesavingclub)
+- [Twitter / X](https://x.com/newquayslsc)
 
 ## Emergency Information
 
