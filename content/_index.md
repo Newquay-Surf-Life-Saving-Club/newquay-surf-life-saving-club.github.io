@@ -28,11 +28,3 @@ Please see our [Facebook](https://www.facebook.com/newquaysurflifesavingclub) pa
 ## Join Us
 
 Whether you're an experienced lifesaver or completely new to the sport, we welcome members of all abilities. Check out our [membership page](/membership/) for more information.
-
-## Upcoming Events
-
-- **Beach Clean** - March 20, 2025
-- **Season Opening Competition** - April 8, 2025
-- **Junior Training Camp** - May 15-17, 2025
-
-[View all events →](/events/)
