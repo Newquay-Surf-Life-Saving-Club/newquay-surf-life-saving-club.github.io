@@ -27,6 +27,7 @@ We have several sections to accommodate different age groups:
 - No trial required
 - Training takes place on Sundays
 - Spaces available based on capacity
+- [Find out more information](/membership/sandhoppers)
 
 ### Nippers (age 7-12)
 - Must be able to swim a minimum of 50m with a good stroke if aged 7-9
@@ -34,15 +35,18 @@ We have several sections to accommodate different age groups:
 - Training takes place on Sundays
 - Trials held in October
 - Must pass swimming assessment
+- [Find out more information](/membership/nippers)
 
 ### Youth (age 12-18)
 - Must be competent swimmers
 - Training takes place on Monday evenings
 - Assessment required
+- [Find out more information](/membership/youth)
 
 ### Seniors (age 18+)
 - Training takes place on Tuesdays
 - Mixed training sessions for both experienced swimmers and lifesavers as well as beginners
+- [Find out more information](/membership/seniors)
 
 ## How to Join
 

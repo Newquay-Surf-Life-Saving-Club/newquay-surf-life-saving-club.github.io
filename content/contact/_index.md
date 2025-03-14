@@ -19,6 +19,13 @@ We value your feedback. If you have any suggestions, comments, or concerns, plea
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=nH2y_waR20KHQGlZePwZ1u2Y6FocNtlHlkwrVG5qEJRURTdUS0pYSVJPWDlDOUtBWDgzVFFKOEtEVS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+## Specific Enquiries
+
+Please use the relevant form:
+
+ - [Nippers contact form](/contact/nippers)
+ - [Seniors contact form](/contact/seniors)
+
 ## General Enquiries
 
 **Email:** info@nslsc.org.uk  
@@ -55,7 +62,7 @@ TR7 1HY
 Follow us on social media to stay updated with club news and events:
 
 - [Facebook](https://www.facebook.com/newquaysurflifesavingclub)
-- [Twitter / X](https://x.com/newquayslsc)
+- [X (formally Twitter)](https://x.com/newquayslsc)
 
 ## Emergency Information
 
