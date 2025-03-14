@@ -61,4 +61,4 @@ Follow us on social media to stay updated with club news and events:
 
 For beach emergencies, call 999 and ask for the Coastguard.
 
-Lifeguard service at Fistral Beach operates daily from May to September, 10:00 - 18:00.
+Check the [RNLI website](https://rnli.org/find-my-nearest/lifeguarded-beaches/fistral-beach) to find out when the lifeguard service operates at Fistral Beach.

@@ -1,9 +1,11 @@
-+++
-title = "Training"
-description = "Training programs, schedules, and qualifications at Newquay Surf Life Saving Club"
-date = 2025-03-11T12:00:00Z
-draft = false
-+++
+---
+title: Training
+description: Training programs, schedules, and qualifications at Newquay Surf Life Saving Club
+date: 2025-03-11T12:00:00Z
+draft: false
+cascade:
+  type: docs
+---
 
 ![Training session](PXL_20250119_142904546__waterworld_board_rescue_cropped.jpg)
 
@@ -75,7 +77,7 @@ The club provides training equipment including:
 Members are expected to provide their own:
 - Wetsuit
 - Swimming costume
-- Club cap (provided with membership)
+- Club cap (can purchase through club)
 - Goggles
 
 ## Coaching Team
