@@ -3,6 +3,8 @@ title: About Newquay Surf Life Saving Club
 description: Learn about Newquay Surf Life Saving Club's history, mission, and values
 date: 2025-03-11T12:00:00Z
 draft: false
+cascade:
+  type: docs
 ---
 
 ![2024 awards at Fistral Beach Bar](PXL_20240721_112113350__beach_bar_awards_cropped.jpg)
