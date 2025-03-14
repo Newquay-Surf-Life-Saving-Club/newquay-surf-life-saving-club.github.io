@@ -57,6 +57,12 @@ menu:
         icon: facebook
 
 params:
+  theme:
+    default: light
+
+  page:
+    width: normal
+
   navbar:
     displayTitle: true
     displayLogo: true
