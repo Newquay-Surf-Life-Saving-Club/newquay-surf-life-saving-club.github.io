@@ -14,10 +14,8 @@ cascade:
 
 ![Competitors ready at the start line in 2024](PXL_20240914_143928731__start_line.jpg)
 
----
-
-{{< callout type="warning" >}}
-  This page contains example content and should not be taken literally
+{{< callout emoji="📷" >}}
+  Photo taken at [SLSGB Open National Surf Championship 2024](/events/past-events/2024-open-championships/)
 {{< /callout >}}
 
 ## Competition Calendar
