@@ -40,5 +40,4 @@ Our club participates in a variety of competitions throughout the year, catering
 - National Senior Surf Championships
 - National Masters Surf Championships
 
-*Dates and locations for this season's competitions will be announced soon. Please check our [Club Memb
-ership Cloud portal](https://newquayslsc.clubmembership.cloud/) for the most up-to-date information.*
+*Dates and locations for this season's competitions will be announced soon. Please check our [Club Membership Cloud portal](https://newquayslsc.clubmembership.cloud/) for the most up-to-date information.*
