@@ -1,5 +1,8 @@
 ---
 title: Credits
+menus: []
+hidden: true
+draft: true
 ---
 
 This website has been built using the [Hugo static site generator](https://gohugo.io/) and the [Hextra](https://github.com/imfing/hextra) theme.
